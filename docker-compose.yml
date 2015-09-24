@@ -1,0 +1,3 @@
+zookeeper:
+  image: andizzle/zookeeper:latest
+  net: "host"
